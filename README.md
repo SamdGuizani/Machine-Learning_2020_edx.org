@@ -1,6 +1,6 @@
 # Machine Learing 
 ## MOOC edx.org - ColumbiaX [2020]
-## Homework & Project
+## Homework & Projects
 
 - Practicing: some practice cases
 - Project 1: Ridge Regression and Active Learning algorithm
